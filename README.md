@@ -1,6 +1,6 @@
 ```blueman```
 
-- Wrapper over `blueutil` to manage bluetooth devices 
+- Wrapper over binaries to manage bluetooth devices 
 - Currently implemented only for MACs
 
 `To DO`
